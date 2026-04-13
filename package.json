@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-monoprix",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Monoprix depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-monoprix",
+    "bon-de-reduction-monoprix",
+    "coupon-monoprix",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/monoprix.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-monoprix.git"
+  }
+}
